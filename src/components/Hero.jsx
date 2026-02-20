@@ -7,11 +7,11 @@ function Hero() {
         <div className="hero-content">
           <div className="hero-text">
             <h1>Hi, I'm Sampreetha P</h1>
-            <h2>Full-Stack Developer & Problem Solver</h2>
+            <h2>Aspiring Java & MERN Stack Developer</h2>
             <p>
-              Passionate software developer with expertise in Java, MERN stack, and modern web technologies. 
-              Dedicated to creating efficient, scalable solutions and continuously expanding my technical skills.
-              Currently pursuing B.Tech in Computer Technology with a strong academic record.
+              Passionate Computer Technology student with a strong foundation in Java, MySQL, and the MERN stack. 
+              I enjoy building full-stack applications and solving real-world problems through clean and efficient code. 
+              Actively seeking opportunities to grow as a backend or full-stack developer.
             </p>
             <div className="hero-buttons">
               <a href="#projects" className="btn">View Projects</a>

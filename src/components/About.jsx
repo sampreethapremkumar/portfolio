@@ -8,10 +8,10 @@ function About() {
         <div className="about-content">
           <div className="about-text">
             <p>
-              I am a passionate and dedicated software developer with a strong foundation in Java, MySQL, and MERN stack technologies. My journey in software development has been driven by a deep passion for problem solving and creating efficient, scalable solutions that make a real impact.
+              I am a B.Tech Computer Technology student with a CGPA of 8.13, passionate about backend and full-stack development. I have hands-on experience building applications using Java and the MERN stack. I enjoy problem-solving, writing clean code, and continuously learning new technologies to improve my development skills.
             </p>
             <p>
-              With a CGPA of 8.13, I have consistently demonstrated academic excellence while actively engaging in practical projects that showcase my technical skills and creativity. I thrive in backend and full-stack development environments, where I can leverage my knowledge to build robust, user-centric applications.
+              My focus areas include Object-Oriented Programming, REST APIs, Database Management, and Full-Stack Web Development. I thrive in backend and full-stack development environments, where I can leverage my knowledge to build robust, user-centric applications.
             </p>
             <div className="about-stats">
               <div className="stat-item">

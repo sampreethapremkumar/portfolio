@@ -5,19 +5,19 @@ function Projects() {
     {
       title: 'Student Result Management System',
       tech: 'Core Java',
-      description: 'A comprehensive desktop application built with Core Java that manages student records, course enrollment, and grade tracking. Features include data persistence, user authentication, and detailed reporting capabilities.',
+      description: 'A Java-based application developed to manage student academic records, grades, and performance reports. The system allows adding, updating, and retrieving student data efficiently using object-oriented principles and file handling.',
       github: 'https://github.com/sampreetha-p/student-result-system'
     },
     {
       title: 'Alumni Network Platform',
       tech: 'MERN Stack',
-      description: 'A full-stack web application connecting alumni with current students and faculty. Built with MongoDB, Express.js, React, and Node.js, featuring user profiles, networking tools, and event management.',
+      description: 'A full-stack web application designed to connect alumni and students. Features include user authentication, profile management, messaging, and event announcements. Implemented secure login functionality and REST APIs for data management.',
       github: 'https://github.com/sampreetha-p/alumni-network'
     },
     {
       title: 'Social Media Music Platform',
       tech: 'MERN Stack',
-      description: 'A frontend-focused social media platform for music enthusiasts. Developed with React and Node.js, allowing users to share music, create playlists, and connect with other music lovers.',
+      description: 'A real-time music sharing platform where users can listen to the same song together, chat, and share music experiences. Built responsive UI components and implemented authentication using JWT for secure access.',
       github: 'https://github.com/sampreetha-p/music-social-platform'
     }
   ]
