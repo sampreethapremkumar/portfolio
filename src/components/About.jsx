@@ -8,10 +8,10 @@ function About() {
         <div className="about-content">
           <div className="about-text">
             <p>
-              I am a passionate and dedicated B.Tech Computer Technology student with a strong foundation in Java, MySQL, and MERN stack technologies. My journey in software development has been driven by a deep passion for problem solving and creating efficient, scalable solutions.
+              I am a passionate and dedicated software developer with a strong foundation in Java, MySQL, and MERN stack technologies. My journey in software development has been driven by a deep passion for problem solving and creating efficient, scalable solutions that make a real impact.
             </p>
             <p>
-              With a CGPA of 8.13, I have consistently demonstrated academic excellence while actively engaging in practical projects that showcase my technical skills and creativity. I thrive in backend and full-stack development environments, where I can leverage my knowledge to build robust applications.
+              With a CGPA of 8.13, I have consistently demonstrated academic excellence while actively engaging in practical projects that showcase my technical skills and creativity. I thrive in backend and full-stack development environments, where I can leverage my knowledge to build robust, user-centric applications.
             </p>
             <div className="about-stats">
               <div className="stat-item">
@@ -19,21 +19,21 @@ function About() {
                 <p>CGPA</p>
               </div>
               <div className="stat-item">
-                <h3>Backend</h3>
-                <p>Focus</p>
+                <h3>Full-Stack</h3>
+                <p>Developer</p>
               </div>
               <div className="stat-item">
-                <h3>Full-Stack</h3>
-                <p>Development</p>
+                <h3>Problem</h3>
+                <p>Solver</p>
               </div>
             </div>
           </div>
           <div className="about-image">
             <div className="about-circle">
               <div className="about-circle-inner">
-                <span>Code</span>
-                <span>Logic</span>
-                <span>Creativity</span>
+                <span>Innovation</span>
+                <span>Technology</span>
+                <span>Excellence</span>
               </div>
             </div>
           </div>

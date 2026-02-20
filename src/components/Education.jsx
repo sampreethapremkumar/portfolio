@@ -3,25 +3,25 @@ import React from 'react'
 function Education() {
   const educationData = [
     {
-      degree: 'B.Tech Computer Technology',
-      institution: 'University Name',
+      degree: 'Bachelor of Technology in Computer Technology',
+      institution: 'Reputed University',
       period: '2022–2026',
       cgpa: '8.13',
-      description: 'Currently pursuing Bachelor of Technology in Computer Technology with a strong focus on software development and problem-solving.'
+      description: 'Pursuing advanced studies in computer technology with a focus on software engineering, data structures, and modern development practices. Active participant in coding competitions and technical workshops.'
     },
     {
-      degree: '12th Grade',
-      institution: 'School Name',
+      degree: 'Higher Secondary Education (Science)',
+      institution: 'Reputed School',
       period: '2020–2022',
       cgpa: '82%',
-      description: 'Completed higher secondary education with a focus on science and mathematics.'
+      description: 'Completed with a strong foundation in mathematics and science, developing analytical thinking and problem-solving skills essential for software development.'
     },
     {
-      degree: '10th Grade',
-      institution: 'School Name',
+      degree: 'Secondary School Education',
+      institution: 'Reputed School',
       period: '2018–2020',
       cgpa: '73.2%',
-      description: 'Completed secondary education with a strong foundation in core subjects.'
+      description: 'Laid the groundwork for technical education with a focus on logical reasoning and computational thinking.'
     }
   ]
 

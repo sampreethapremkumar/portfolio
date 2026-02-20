@@ -11,7 +11,7 @@ function Contact() {
               <div className="contact-icon">📧</div>
               <div className="contact-details">
                 <h4>Email</h4>
-                <p>sampreetha.p@example.com</p>
+                <p>sampreetha.p.developer@example.com</p>
               </div>
             </div>
             <div className="contact-item">
@@ -36,20 +36,24 @@ function Contact() {
               </div>
             </div>
           </div>
-      <div className="contact-form-container">
-        <form className="contact-form">
-          <h3 style={{ color: '#2563eb', fontWeight: '800' }}>Send me a message</h3>
+          <div className="contact-form-container">
+            <form className="contact-form">
+              <h3>Let's Work Together</h3>
               <div className="form-group">
-                <input type="text" placeholder="Your Name" required />
+                <label htmlFor="name">Name</label>
+                <input type="text" id="name" placeholder="Your Name" required />
               </div>
               <div className="form-group">
-                <input type="email" placeholder="Your Email" required />
+                <label htmlFor="email">Email</label>
+                <input type="email" id="email" placeholder="Your Email" required />
               </div>
               <div className="form-group">
-                <input type="text" placeholder="Subject" required />
+                <label htmlFor="subject">Subject</label>
+                <input type="text" id="subject" placeholder="Subject" required />
               </div>
               <div className="form-group">
-                <textarea placeholder="Your Message" rows="5" required></textarea>
+                <label htmlFor="message">Message</label>
+                <textarea id="message" placeholder="Your Message" rows="5" required></textarea>
               </div>
               <button type="submit" className="btn">Send Message</button>
             </form>
