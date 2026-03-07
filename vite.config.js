@@ -27,5 +27,5 @@ export default defineConfig({
       target: 'es2015'
     }
   },
-  base: './'
+  base: '/portfolio/'
 })
